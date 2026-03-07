@@ -42,4 +42,4 @@ def main():
         f.truncate()
 
 
-main()
+main()run
